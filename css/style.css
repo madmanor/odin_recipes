@@ -1,10 +1,10 @@
 body {
      font-family: fantasy;
      background-color: antiquewhite;
-
+     text-align: left;
 }
 
-#h1 {
+.page_title { 
      color: crimson;
      text-align: center;
      font-weight: bolder;
@@ -16,3 +16,5 @@ body {
      color: crimson;
      font-weight: bold;
 }
+
+
