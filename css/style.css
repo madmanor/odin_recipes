@@ -5,7 +5,23 @@ body {
 }
 
 #h1 {
-     color: red;
+     color: crimson;
      text-align: center;
+     font-weight: bolder;
+ 
+}
+
+.index_subheading {
+     text-align: center;
+     color: crimson;
      font-weight: bold;
+}
+
+ #box {
+     width: 20px;
+     height: 10px;
+     border: 2px solid brown;
+     margin-top: auto; 
+     padding: 5px;
+
 }
