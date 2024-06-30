@@ -16,12 +16,3 @@ body {
      color: crimson;
      font-weight: bold;
 }
-
- #box {
-     width: 20px;
-     height: 10px;
-     border: 2px solid brown;
-     margin-top: auto; 
-     padding: 5px;
-
-}
