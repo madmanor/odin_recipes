@@ -1,3 +1,4 @@
+
 body {
      font-family: fantasy;
      background-color: antiquewhite;
@@ -11,10 +12,52 @@ body {
  
 }
 
-.index_subheading {
+.main {
      text-align: center;
      color: crimson;
      font-weight: bold;
+     margin: 10px;
+     padding: 10px;
+     height: auto;
+     width: auto;
+}
+
+.dish-one {
+     padding: 0px;
+     margin: 0px;
+     height: 250px;
+     width: 250px;
+     display: inline-block;
+     box-sizing: border-box;
 }
 
 
+.dish-two {
+
+     padding: 0px;
+     margin-left: 25px;
+     height: 250px;
+     width: 250px;
+     display: inline-block;
+     box-sizing: border-box;
+}
+
+.dish-three {
+
+     padding: 0px;
+     margin-left: 25px;
+     height: 250px;
+     width: 250px;
+     display: inline-block;
+     box-sizing: border-box;
+
+}
+
+
+.dish-one, .dish-two, .dish-three  {
+
+     margin-top: 10px;
+
+      
+
+}
